@@ -407,7 +407,7 @@ $(document).ready(function () {
     $icon = $(".icon"),
     cartPageBottomP = document.querySelector(".cart-page-bottom p"),
     cartPageBottomH4 = document.querySelector(".cart-page-bottom h4");
-    let textTitle = "Cô giáo hư!";
+    let textTitle = "Thiệp mời dự tiệc giáng sinh!";
     let charArrTitle = textTitle.split('');let text = "Merry christmas cô giáo <3 :))"
 let charArrContent = text.split('');
 var currentIndexTitle = 0;
